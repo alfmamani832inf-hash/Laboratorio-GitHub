@@ -1,6 +1,1 @@
-
-def saludo():
-    print("Hola, bienvenido al proyecto colaborativo de GitHub")
-
-
-saludo()
+las mejoras que ise son : mejora aceptacion de los datos,mejora del fht 11, sensort, que el sistema ya no es simulado
